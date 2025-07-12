@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purvpatel123" alt="purvpatel123" /></a> </p>
 
-- 🌱 I’m currently learning **backend**
+- 🌱 I’m currently learning **React Testing**
 
 - 📫 How to reach me **patelpurv2643@gmail.com**
 
