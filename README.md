@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purvpatel123" alt="purvpatel123" /></a> </p>
 
-- 🌱 I’m currently learning **Type Script**
+- 🌱 I’m currently learning **Type Script** and currently working on new project **GoBookIt**
 
 - 📫 How to reach me **patelpurv2643@gmail.com**
 
