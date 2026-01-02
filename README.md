@@ -1,11 +1,36 @@
-<h1 align="center">Hi 👋, I'm purv</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Purv</h1>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=purvpatel123&label=Profile%20views&color=0e75b6&style=flat" alt="purvpatel123" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=purvpatel123&label=Profile%20views&color=0e75b6&style=flat" alt="purvpatel123" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purvpatel123" alt="purvpatel123" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=purvpatel123" alt="purvpatel123" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **Type Script** and currently working on new project **GoBookIt**
+- 🌱 I’m currently learning **TypeScript**
+- 🚧 Currently working on a new project **GoBookIt**
+
+<h3 align="center">🚀 Check Out My Works:</h3>
+
+- 🔮 **[FutureForge](https://github.com/FutureForgeOrg/FutureForge)**  
+  A full-stack career improvement platform that simplifies job searching by integrating smart job matching, customizable portfolios, resume building, and an AI interviewer into one unified solution.
+
+- 🏥 **[Doctor Appointment System](https://github.com/purvpatel123/DoctorAppointmentSystem)**  
+  A web-based doctor appointment system that allows patients to book appointments, receive updates, and use machine learning for disease prediction based on symptoms.
+
+- 💬 **[BlogApp](https://github.com/purvpatel123/BlogApp)**  
+  A full-stack MERN blogging platform where admins can manage posts and users can read blogs and contact the admin.
+
+- 🎟️ **[GoBookIt](https://github.com/FutureForgeOrg/Ticket-Booking-System) (Ongoing)**  
+  A full-stack cinema ticket booking system built using React, Tailwind CSS, shadcn/ui, Zustand, Node.js, Express, and MongoDB.  
+  Focused on real-time seat booking, admin management, and scalable backend architecture.
+
+- 🔧 **And many more exciting projects...**
+
 
 - 📫 How to reach me **patelpurv2643@gmail.com**
 
